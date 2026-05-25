@@ -8,9 +8,9 @@
 <div align="center">
     <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge">
     <img src="https://img.shields.io/badge/.NET-Aspire-512BD4?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/React Native-Mobile-02569B?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/ESP32-IoT-black?style=for-the-badge">
-    <img src="https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-Database-316192?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 <br>
@@ -85,7 +85,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=dotnet" height="55">
     <img src="https://skillicons.dev/icons?i=flutter" height="55">
-    <img src="https://skillicons.dev/icons?i=postgres" height="55">
+    <img src="https://skillicons.dev/icons?i=mysql" height="55">
     <img src="https://skillicons.dev/icons?i=docker" height="55">
     <img src="https://skillicons.dev/icons?i=arduino" height="55">
     <img src="https://skillicons.dev/icons?i=github" height="55">
