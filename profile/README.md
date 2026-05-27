@@ -52,6 +52,9 @@
     <li><strong>Sustentabilidade</strong> — Incentivamos práticas conscientes e soluções tecnológicas voltadas à eficiência e responsabilidade operacional.</li>
     <li><strong>Ética</strong> — Conduzimos nosso trabalho com profissionalismo, honestidade e respeito aos usuários, parceiros e colaboradores.</li>
 </ul>
+<br>
+<hr>
+<br>
 <h2>💡 Plataforma & Soluções</h2>
 <p>A arquitetura da EntreMesas foi estruturada para atuar como uma plataforma integrada de gerenciamento operacional, automação e comunicação distribuída, permitindo que aplicações, APIs e dispositivos inteligentes operem de forma sincronizada e escalável.</p>
 <h3>Principais objetivos da solução:</h3>
@@ -228,9 +231,9 @@
 <h2>🤝 Contribuições</h2>
 <p>Contribuições, melhorias e sugestões são bem-vindas para evolução contínua da plataforma.</p>
 <pre>
-    git checkout -b feature/minha-feature
-    git commit -m "feat: adiciona nova funcionalidade"
-    git push origin feature/minha-feature
+git checkout -b feature/minha-feature
+git commit -m "feat: adiciona nova funcionalidade"
+git push origin feature/minha-feature
 </pre>
 <p>Após isso, abra um Pull Request para revisão da equipe.</p>
 <br>
